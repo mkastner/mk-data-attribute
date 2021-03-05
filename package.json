@@ -1,0 +1,12 @@
+{
+  "name": "mk-data-attribute",
+  "version": "0.0.1",
+  "description": "Reading data attributes with default",
+  "main": "index.js",
+  "author": "John Galt",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.21.0"
+  }
+}
